@@ -11,3 +11,4 @@ The website is not hosted yet...
 
 # Refer to the contributions.md file to know the requirements and expectations for HACKTOBERFEST contributions.
 
+##NOTE: no backend,server side or database code written yet.
