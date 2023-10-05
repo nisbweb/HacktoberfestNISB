@@ -105,6 +105,7 @@ Then add a title, explain in brief what you have done and send the PR!.
 # Happy Coding👋 
 
 ## For advanced contributions, refer below :arrow_down:
+### Refer to the wireframe [Here](https://drive.google.com/file/d/1CoagUUC9AgHakX4TgiVv6xyf6mbU9Bbj/view?usp=drive_link) 
 
 ### The expectation, as given is an E-Library website with proper backend. Refer to the wireframe doc attached for the required end result.
 ### there arent any restrictions on any change. Keep a thumbnail for the books and other sections where pictures are needed
