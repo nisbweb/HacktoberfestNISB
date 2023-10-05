@@ -71,12 +71,12 @@ Now you are ready to update your contribution by sending a PR !!!.
 ```sh
 # Create a new branch with name branch_Name
 $ git checkout -b BranchName
-```
+```   
 2.
 ```sh
 # To switch to that branch
 $ git checkout BranchName
-```
+```   
 3.
 ```sh
 # To add all files to the branch 
@@ -88,7 +88,7 @@ $ git commit -m "your-name"
 At the end, push the work you have done to your remote repository using
 ```sh
 # Push your work to your remote repository
-$ git push origin branchName
+$ git push origin <branchName>
 ```
 
 ## Step 6
