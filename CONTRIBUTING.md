@@ -29,6 +29,8 @@ flowchart LR
 -Register for [Hacktoberfest](https://hacktoberfest.com/).
 
 ## Step 1 - FORK:
+![img2](https://github.com/ShreyasPAradhya/HacktoberfestNISB/assets/84059358/1fa0fd46-433d-4fff-9fd8-6cd9cc30574f)
+
 Fork the repository to your GitHub account.
 <img src="img2.png" width=50% height=50%>
 
@@ -96,6 +98,8 @@ $ git push origin <branchName>
 Now go to your repository in the browser and click on contribute > Open pull request.
 Then add a title, explain in brief what you have done and send the PR!.
 <img src="img1.png" width=50% height=50%>
+![img1](https://github.com/ShreyasPAradhya/HacktoberfestNISB/assets/84059358/d2969cd1-1a42-4c97-9ff1-56ccdc2aba2d)
+
 ## Thats it, wait for us to merge your PR and then you will get a +1 in the hacktoberfest website :fire::fire:
 
 # Happy Coding👋 
