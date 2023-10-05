@@ -1,4 +1,7 @@
-## Description
+
+### Star the repo by pressing the topmost-right button to start your wonderful journey.
+![image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Lz_KFgbak2sUjwjOG9SZ4g.png)
+
 ## Hacktoberfest
 Hacktoberfest is DigitalOcean’s annual event that encourages people to contribute to open source throughout October. Much of modern tech infrastructure—including some of DigitalOcean’s own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills.
 ### The expectation, as given is an E-Library website with proper backend. Refer to the wireframe doc attached for the required end result.
