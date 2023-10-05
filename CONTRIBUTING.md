@@ -64,9 +64,9 @@ use
 ```sh
 $ git pull upstream main
 ```
-## Step 5:
+## Step 5 :arrow_down:
 Now you are ready to update your contribution by sending a PR !!!.    
--First create a branch and add all your files to it.    
+-First create a branch and add all your files to it.   
 1.
 ```sh
 # Create a new branch with name branch_Name
@@ -80,23 +80,26 @@ $ git checkout BranchName
 3.
 ```sh
 # To add all files to the branch 
-$ git add .
-```
+$ git add .    
+# commit the changes
+$ git commit -m "your-name"
+```   
+
 At the end, push the work you have done to your remote repository using
 ```sh
 # Push your work to your remote repository
-$ git push -u origin branchName
+$ git push origin branchName
 ```
 
 ## Step 6
 Now go to your repository in the browser and click on contribute > Open pull request.
 Then add a title, explain in brief what you have done and send the PR!.
 
-## Thats it, wait for us to merge your PR and then you will get a +1 PR in the hacktoberfest website :fire::fire:
+## Thats it, wait for us to merge your PR and then you will get a +1 in the hacktoberfest website :fire::fire:
 
 # Happy Coding👋 
 
-## For advanced contributions, refer below :down:.
+## For advanced contributions, refer below :arrow_down:
 
 ### The expectation, as given is an E-Library website with proper backend. Refer to the wireframe doc attached for the required end result.
 ### there arent any restrictions on any change. Keep a thumbnail for the books and other sections where pictures are needed
