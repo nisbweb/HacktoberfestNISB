@@ -1,5 +1,6 @@
 ## Description
-
+##Hacktoberfest
+Hacktoberfest is DigitalOcean’s annual event that encourages people to contribute to open source throughout October. Much of modern tech infrastructure—including some of DigitalOcean’s own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills.
 ### The expectation, as given is an E-Library website with proper backend. Refer to the wireframe doc attached for the required end result.
 ### there arent any restrictions on any change. Keep a thumbnail for the books and other sections where pictures are needed
 ### Hyperlinks and nav for every book or uploads is expected
