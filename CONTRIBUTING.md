@@ -30,6 +30,7 @@ flowchart LR
 
 ## Step 1 - FORK:
 Fork the repository to your GitHub account.
+<img src="img2.png" width=50% height=50%>
 
 ## Step 2 - CLONE:
 Clone(download) it to your local machine.   
@@ -94,7 +95,7 @@ $ git push origin <branchName>
 ## Step 6
 Now go to your repository in the browser and click on contribute > Open pull request.
 Then add a title, explain in brief what you have done and send the PR!.
-
+<img src="img1.png" width=50% height=50%>
 ## Thats it, wait for us to merge your PR and then you will get a +1 in the hacktoberfest website :fire::fire:
 
 # Happy Coding👋 
