@@ -3,7 +3,7 @@ An E-library project built using HTML, CSS,Javascript, Flask and Firebase
 Note: The website is not hosted yet.
 
 ## Guidelines
-Refer to the [contributions.md](https://github.com/nisbweb/HacktoberfestNISB/blob/main/contrubutions.md) file to know the requirements, guidelines and expectations for HACKTOBERFEST 2023 contributions.
+Refer to the [contributions.md](https://github.com/nisbweb/HacktoberfestNISB/blob/main/CONTRIBUTING.md) file to know the requirements, guidelines and expectations for HACKTOBERFEST 2023 contributions.
 
 ## To run the website
 -install all the requirements given in the requirements.txt inside the project directory and then run it preferably in a venv.
