@@ -108,10 +108,10 @@ Then add a title, explain in brief what you have done and send the PR!.
 # Happy Coding👋 
 
 ## For advanced contributions, refer below :arrow_down:
-Refer to the wireframe [Here](https://drive.google.com/file/d/1CoagUUC9AgHakX4TgiVv6xyf6mbU9Bbj/view?usp=drive_link)    
+Refer to the wireframe [Here](https://drive.google.com/file/d/1CoagUUC9AgHakX4TgiVv6xyf6mbU9Bbj/view?usp=drive_link). 
 The expectation, as given is an E-Library website with proper backend. Refer to the wireframe doc attached for the required end result.   
-There arent any restrictions on any change. Keep a thumbnail for the books and other sections where pictures are needed    
-Hyperlinks and nav for every book or uploads is expected    
+There arent any restrictions on any change. Keep a thumbnail for the books and other sections where pictures are needed.    
+Hyperlinks and nav for every book or uploads is expected.    
 Any database system can be used(MySQL,MongoDB,Firebase etc), but the dbms first pushed into the repo will be considered and others will have to work on that same database itself.    
-Authentication is done using Firebase (you can ping us for any info on the credentials or to edit the firbase settings). There is a requirement to create users and presonalised login for every user.(Currently an example login with 1 user is made).(A user stack to is required)
+Authentication is done using Firebase (you can ping us for any info on the credentials or to edit the firbase settings). There is a requirement to create users and presonalised login for every user.(Currently an example login with 1 user is made).(A user stack is required as well).
 
